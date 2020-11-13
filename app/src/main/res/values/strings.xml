@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">coursework</string>
+    <string name="google_maps_api_key">AIzaSyCe4qJAKwA436X_JHPwLlGqPSRLbPvmn3g</string>
+    <string-array name="countries_array">
+        <item>Edinburgh Castle</item>
+        <item>Loch Ness</item>
+        <item>Loch Lomond</item>
+        <item>Palace of Holyroodhouse</item>
+        <item>Stirling Castle</item>
+        <item>Ben Nevis</item>
+        <item>Edinburgh Old Town</item>
+        <item>Scott Monument</item>
+    </string-array>
+</resources>

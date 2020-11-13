@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "537610121229",
+    "firebase_url": "https://mobile-apps-coursework-356c0.firebaseio.com",
+    "project_id": "mobile-apps-coursework-356c0",
+    "storage_bucket": "mobile-apps-coursework-356c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:537610121229:android:bb462d50d9ca786008a544",
+        "android_client_info": {
+          "package_name": "com.napier.coursework"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "537610121229-h0043vc1db2r8jfpv1as84a7kmdqq3t2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMs05NsOeNiaAyLPZSahV68x-jV8drrBE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "537610121229-h0043vc1db2r8jfpv1as84a7kmdqq3t2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
